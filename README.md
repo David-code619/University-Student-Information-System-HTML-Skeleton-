@@ -85,9 +85,9 @@ Contributions are welcome! If you have improvements or want to add features:
 
 ## 📬 Contact
 
-Created by **[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+Created by Obayi David
+- GitHub: [@David-code619](https://github.com/David-code619)
+- Email: [obayidavid02@gmail.com](mailto:obayidavid02@gmail.com)
 
 ---
 
